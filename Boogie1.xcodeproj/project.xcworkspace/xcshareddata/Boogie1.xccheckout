@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0D652E18-C7B8-4DB8-A922-C6F04335684F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Boogie1</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B037667031C1659D0131F7AAF1E9D05EE88BA9B9</key>
+		<string>github.com:rweisser/ios_class.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>week01/homework/iOSBoogie_0-master/Boogie1.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B037667031C1659D0131F7AAF1E9D05EE88BA9B9</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:rweisser/ios_class.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B037667031C1659D0131F7AAF1E9D05EE88BA9B9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B037667031C1659D0131F7AAF1E9D05EE88BA9B9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>class</string>
+		</dict>
+	</array>
+</dict>
+</plist>
